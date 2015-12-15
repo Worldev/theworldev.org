@@ -74,9 +74,9 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>Worldev</h1>
+                <h1>Your Favorite Source of Free Bootstrap Themes</h1>
                 <hr>
-                <p>Free Software For a Free World</p>
+                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -86,10 +86,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">About us</h2>
+                    <h2 class="section-heading">We've got what you need!</h2>
                     <hr class="light">
-                    <p class="text-faded">Worldev is a developers community that code together different types of software. We are an open community, and you can join us today, even if you don't know programming!</p>
-                    <a href="#" class="btn btn-default btn-xl">Learn how</a>
+                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                    <a href="#" class="btn btn-default btn-xl">Get Started!</a>
                 </div>
             </div>
         </div>
@@ -147,10 +147,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    IRC Bot
+                                    Category
                                 </div>
                                 <div class="project-name">
-                                    Granota
+                                    Project Name
                                 </div>
                             </div>
                         </div>
@@ -162,10 +162,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    IRC Bot
+                                    Category
                                 </div>
                                 <div class="project-name">
-                                    JeDaBot
+                                    Project Name
                                 </div>
                             </div>
                         </div>
@@ -177,10 +177,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Web
+                                    Category
                                 </div>
                                 <div class="project-name">
-                                    MushroomBoard
+                                    Project Name
                                 </div>
                             </div>
                         </div>
@@ -192,10 +192,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Miscellaneous
+                                    Category
                                 </div>
                                 <div class="project-name">
-                                    Mikicat's Antivirus
+                                    Project Name
                                 </div>
                             </div>
                         </div>
@@ -210,7 +210,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Add your project here!
+                                    Project Name
                                 </div>
                             </div>
                         </div>
@@ -225,7 +225,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Add your project here!
+                                    Project Name
                                 </div>
                             </div>
                         </div>
