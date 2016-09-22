@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/jeda
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theworldev.org
+  * I am jeda (https://keybase.io/jeda) on keybase.
+  * I have a public key with fingerprint 2100 C030 BCF5 3777 433C  AD87 B80E DDE8 08DD 3662
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010189317f5aacbf765c730917dc9f27ccb6597a061e813e0b795c4f0ae5776211940a",
+            "fingerprint": "2100c030bcf53777433cad87b80edde808dd3662",
+            "host": "keybase.io",
+            "key_id": "b80edde808dd3662",
+            "kid": "010189317f5aacbf765c730917dc9f27ccb6597a061e813e0b795c4f0ae5776211940a",
+            "uid": "b00451c2f2b39b6458ae16647d8f6919",
+            "username": "jeda"
+        },
+        "service": {
+            "hostname": "theworldev.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474585924,
+    "expire_in": 157680000,
+    "prev": "62a761f8e0bfc891e6462703df65a96d7f7275f123a71d134629b596a0e49e7c",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNAAnicrVJ/TFVlGL6AMaQQVGC5UNeRovHjen5+3zkXRjQQm1IaCcyr83J+fAeO
+4D3Xe8+FkBAcriIDVho1mNDcVFyGhsiAwUAhr4HZxFAzrkjBFIOwpFJG0Dlm//Vn
+3z/vvvd9nud93ndvX5CfKdCnbYn3boAXCD4D52rcpqwxlFKMCapUhFmKsTz0OKB8
+Cbk0W54iYRYMJ3CC5SgCygzPi4IMASNCCucIKImcTEJRFADDQR4HBGIJCuEC5BiR
+lnEeMRACkiA4GuexWExW7DnI6XAqdk2XJQkcF3EKF0SZoSCENEWJvMRCgcWRJCEW
+ZyWJAoDUibmqy2Do5gTehcyKquf0j+2xvf/A/8++3f/0wXGaIURSJgWKEwDNsDwi
+AKChxMqAIzgD6EJOO78L6eidSOKxklhMzxQoIjKWakzxpKrlokLVqS+5wKw6c3Sm
+w6lqqqjm67VcTXO4LAZXK3IY4EIk2J7I2ATFLulb1BkFyOlSVDtmIXSkqCmGLkFD
+3RbDkXQsht5yKE5kUwwEAwGL68/ogwp0SUDyEBAyq88siyxHIEADEuKUJAOG54AE
+ZUhCRiZIioeERFB6lRMYDvA4ojkERcwYbLdd1bWh7pPP0TVdSo6d19xOhJWcP7d9
+kckn0OT/lK9xXqbAxSH/Ht2m6OD5ODZ9ha8lWU59mDkx6uf9IzUlUXPEvPLoZVH4
+oPqO++jJbVdiPJevbAljvh+MD25KKvFshDPLgsdfmJ+7tPVeslX1H4qMq80ovLZz
+AUzjHdnRh78Jz3tE/xVQz5RG0U8/O1LpCH9VasuqOR3e8LbdPFLnTvq9ckVIfsaB
+Xf07iLhfnhk7nxDdNVPBh3XOfFSdNhveGrWvZThxsAtWrm/4bu7TvC9KlmYODZfc
+WHMgq286NKVQ6ev2r6ppOZE/fnsqsr63f+r56EPk5uCT5oc237L95XTPZ6PWhPjJ
+sJX9yfMbr15qTcvOK/sp++5X3lvvEIvWde+9vs9+bGpQ8bifc/ZOBFyI6Du+iq7t
+HNrqX/N5xXDxl1kdQgZovfoG7D621rPkhLlYJtpTphNqrZsvLz100Xrfe9ByO9WX
+ca3NP/Xhn8Hjm8jlZPy90DHQH1p65LWJ6wvlIT+uXpbZeL9xzRbP2T1NPi9arIdL
+A2ci7vjI0fzN3aebZ2fqutbXTbdHFPxgzt42u/Demd7ENyPr11VEDa4qf9+0l/sE
+C2pcvPrj324GNlleHzj1YJRrJ/fcCjjOHK2urXq3SXPlMOWFC83bV27ABr/tmgRV
+N1zpHa3NYP+vnrSe/iAteySmcyD+ouVBz5ApqejCkdKfq73mTHNKQ1vNjq8p6+QY
+bImc80tffu3M2bKXIv8G8aK/VA==
+=sUO9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeda
+
+==================================================================
